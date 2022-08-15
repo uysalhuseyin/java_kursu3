@@ -1,0 +1,5 @@
+Arac isimli bir super class olusturunuz. fields: renk, motor ,marka
+Consructor ekleyiniz. get ve set metodlari ve tostring metodu ekleyiniz.
+bu siniftan otobus sinifini uretiniz otobusun ayrica yolcusayisini field ini ekleyiniz
+bir aracpark isimli icinden main olan bir sinif olusturunuz ve otobus ten olusturacak.
+otobusun tum ozellerini ekrana yazdiriniz.

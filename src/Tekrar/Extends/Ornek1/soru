@@ -1,0 +1,4 @@
+Calisan isminde bir claas tanimlayiniz fields (isim,maas,maaskatsayisi)
+consructor ve maashesapla metodu ekleyiniz. toString metodu ekleyiniz. toString ekleyiniz
+Genelmudur isimli bir class calisan sinifindan turetiniz extra field olarak tazminat ekleyiniz.
+Genelmudur classinda maashesaplamayi tazminat da ekleyiniz maas*maaskatsayisi.
